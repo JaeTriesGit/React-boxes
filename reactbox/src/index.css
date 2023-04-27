@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Box {
+  border-width: 1px;
+  border-style: solid;
+  background-color: white;
+  border-color: black;
+  width: 50px;
+  height: 50px;
+  border-radius: 6px;
+}
+.Box:hover {
+  cursor: pointer;
+}
+
+.Boxes {
+  gap: 5px;
+  display: flex;
+}/*# sourceMappingURL=index.css.map */
